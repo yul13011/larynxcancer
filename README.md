@@ -1,10 +1,12 @@
 # Oral Cancer Analysis: Propensity Score Weighting & Survival Analysis
 
-**Author:** Eva Yujia Li
+**Author:** Eva Li, 2019
 
 ## Overview
 
 This project analyzes oral cancer (OC) patient outcomes using propensity score weighting and survival analysis techniques. The analysis examines cancer characteristics, treatment patterns, and their association with patient survival using a comprehensive cancer registry dataset.
+
+[📊 Click here to view the full report](https://yul13011.github.io/larynxcancer/Cancer_OC.html)
 
 ## Analysis Summary
 
