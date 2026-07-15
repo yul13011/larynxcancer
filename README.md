@@ -7,6 +7,7 @@
 This project analyzes the oral cancer (OC) outcomes between male and female patients using propensity score weighting and survival analysis techniques. The analysis examines patient characteristics, treatment patterns, and their association with patient survival using a comprehensive cancer registry dataset.
 
 [🔬Click here to read the published research article](https://onlinelibrary.wiley.com/doi/abs/10.1002/hed.25897)
+
 [📊 Click here to view the analysis and results](https://yul13011.github.io/larynxcancer/Cancer_OC.html)
 
 ## Analysis Summary
